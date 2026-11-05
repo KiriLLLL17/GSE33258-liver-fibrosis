@@ -1,0 +1,6 @@
+#node1	node2	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+BRD4	H2AZ2	9606.ENSP00000263377	9606.ENSP00000308405	0	0	0	0	0	0.475	0	0	0.475
+BRD4	KPNB1	9606.ENSP00000263377	9606.ENSP00000290158	0	0	0	0	0	0.510	0	0	0.510
+BRD4	GATA1	9606.ENSP00000263377	9606.ENSP00000365858	0	0	0	0	0	0.490	0	0	0.490
+IFNA5	IL22RA2	9606.ENSP00000484479	9606.ENSP00000296980	0	0	0	0	0	0	0.650	0	0.650
+MED9	TAF3	9606.ENSP00000268711	9606.ENSP00000340271	0	0	0	0	0	0.800	0	0	0.800
