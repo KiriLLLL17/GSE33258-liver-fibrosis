@@ -75,6 +75,8 @@ Outputs are written to `results_GSE33258/`. The full F1 results table (`DE_Norma
 
 ## About
 
-Course project for *Project Practicum*, Ural Federal University (2026), done as a team of two. My work covered the full pipeline: data processing and limma analysis, annotation, visualisation, network analysis and interpretation. The English report and repository were prepared afterwards.
+Course project for *Project Practicum* at Ural Federal University (2026), team **Zephyr**: **Kirill Ryabkov** and **Anastasia Kopytova**. Supervisor: A. E. Chernysheva.
+
+This repository (cleaned-up pipeline, English report, hub-gene direction analysis and revised interpretation) was prepared by Kirill Ryabkov.
 
 **Kirill Ryabkov** · [GitHub](https://github.com/KiriLLLL17) · kirillryabkov17@gmail.com

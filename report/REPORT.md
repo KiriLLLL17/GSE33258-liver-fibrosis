@@ -1,6 +1,7 @@
 # Transcriptomic changes in early vs. advanced HCV-related liver fibrosis (GEO GSE33258)
 
-**Author:** Kirill Ryabkov · Ural Federal University (UrFU), Project Practicum, 2026
+**Authors:** Kirill Ryabkov, Anastasia Kopytova (team Zephyr) · Supervisor: A. E. Chernysheva  
+Ural Federal University (UrFU), Project Practicum, 2026 · English report prepared by Kirill Ryabkov  
 **Tools:** R (GEOquery, limma, EnhancedVolcano, VennDiagram), STRING, Cytoscape + cytoHubba, Python (summary figures)
 
 ---
